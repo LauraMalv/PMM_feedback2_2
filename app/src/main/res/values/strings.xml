@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">feedback2_2</string>
+
+    <string name="mensaje">El pais selecionado es : </string>
+
+    <string-array name="paises">
+        <item>Italia</item>
+        <item>Spain</item>
+        <item>Alemania</item>
+        <item>Francia</item>
+        <item>Portugal</item>
+        <item>Usa</item>
+        <item>Suecia</item>
+        <item>Holanda</item>
+        <item>Reino Unido</item>
+        <item>Belgica</item>
+
+    </string-array>
+
+</resources>
